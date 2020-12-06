@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YesApps</string>
+    <string name="profile_nama">Rizky Orama</string>
+    <string name="profile_deskripsi">Programmer Kesumpahan</string>
+    <string name="profile_posts_count">175</string>
+    <string name="profile_follow_count">637</string>
+    <string name="profile_following_count">1,190</string>
+    <string name="profile_posts">Posts</string>
+    <string name="profile_followers">Followers</string>
+    <string name="profile_following">Following</string>
+    <string name="profile_follow_button">Follow</string>
+    <string name="profile_message_button">Message</string>
+</resources>
