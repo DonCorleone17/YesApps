@@ -10,4 +10,26 @@
     <string name="profile_following">Following</string>
     <string name="profile_follow_button">Follow</string>
     <string name="profile_message_button">Message</string>
+
+    <string name="content_text">Gitar Steinberger GM1T Rhoma Irama Series</string>
+    <string name="content_specs_display">Gitar - Steinberger GM1T Original</string>
+    <string name="content_specs_size">6kg"</string>
+    <string name="content_specs">Gitar Steinberger GM1T Rhoma Irama Series
+        - Mulus, full original.
+        - Kelengkapan Handle dan Softcase Steinberger, BUKAN CUSTOM.
+        - Warna Hitam.
+        - Playability, tak perlu diragukan, dijamin empuk. Apalagi buat yang hobi main melodi sambil Nge-bending. Gitar ini kelebihannya udah pake string adapter, jadi tidak perlu pake senar Double Ball lagi. Pakai senar biasa juga bisa.
+        - Gitar yang didapatkan dengan penuh perjuangan oleh Rhoma Irama dan sebagai Trademark dari Raja Dangdut. Setelah Fender dan beberapa gitar merk lain, Rhoma lantas beralih ke Steinberger, sebuah gitar headless yang dibelinya di Hong Kong pada 1980, saat ia menjalani sebuah syuting film. Kala itu ia melihat gitar ini menggantung di sebuah etalase toko musik bernama Tom Lee Music Shop. Ia tertarik dan ingin membelinya, namun si penjual tidak melepasnya lantaran itu hanya prototype dan tidak dijual. Namun Rhoma tidak patah arang, selama tiga hari berturut-turut ia kembali mendatangi toko itu. Dan di hari ketiga, saat si penjual sedang membaca majalah Asiaweek dia langsung terkejut melihat ada Rhoma Irama yang dinobatkan sebagai ‘Southeast Asia Superstar’ oleh majalah tersebut.
+        ”Ini kamu?!” tanya penjual gitar sambil menunjuk foto saya di dalam majalah,” kenang Rhoma. Saya jawab, “Iya.”
+        “Wah…kalau gitu saya harus telepon Ned Steinberger sekarang. Halo Tuan Steinberger, ini ada Southeast Asia Superstar minta gitar sampel yang ada di toko…” Hahaha…dan saya langsung dikasih dengan harga sekitar 20 jutaan rupiah waktu itu. Sampai sekarang gitar itu masih saya pake. Dan sekarang saya udah punya tiga gitar Steinberger; 2 warna hitam dan 1 warna putih. Saya juga pernah beli sepasang yang seri Spirit tapi kurang enak. Kalau yang sekarang saya pake enak banget, fretnya 24 lebih panjang dari Fender, necknya juga lebih kecil dan pas buat tangan saya. Dari segi sound juga lebih cocok,”
+        Gitar ini pun sering di modifikasi oleh Rhoma Irama. Awalnya memiliki satu pick up dan kini menjadi 2 pick up sehingga mirip dengan Steinberger GM2 series adapula gitar Steinberger yang dimodif menggunakan Pick Guard putih dan kini menjadi hitam.
+        </string>
+    <string name="content_price">Rp. 8.500.000</string>
+    <string name="intent_with_result">Intent With Result</string>
+    <string name="implicit_intent">Implicit Intent</string>
+    <string name="intent_with_parcelable">Intent With Parcelable</string>
+    <string name="intent_with_data">Intent With Data</string>
+    <string name="simple_activity">Simple Activity</string>
+    <string name="back">Back</string>
+    <string name="todo">TODO</string>
 </resources>
